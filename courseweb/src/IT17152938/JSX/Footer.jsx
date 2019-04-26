@@ -1,7 +1,5 @@
-import React, { Component } from 'react';
-import sliiticon from '../img/logo/SLIIT.png';
-// import './App.css';
-import { Card} from 'react-bootstrap';
+import React, {Component} from 'react';
+import {Card} from 'react-bootstrap';
 
 export default class Footer extends Component {
     render() {

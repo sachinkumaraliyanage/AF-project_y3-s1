@@ -1,9 +1,8 @@
-import React, { Component } from 'react';
+import React, {Component} from 'react';
 import slide1 from '../img/slide/1.jpg';
 import slide2 from '../img/slide/2.jpg';
 import slide3 from '../img/slide/3.jpg';
-// import './App.css';
-import { Carousel} from 'react-bootstrap';
+import {Carousel} from 'react-bootstrap';
 
 export default class ImageSlide extends Component {
     render() {
