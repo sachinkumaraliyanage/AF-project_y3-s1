@@ -30,7 +30,7 @@ const chsubmit = function (val) {
                 alert("email and password incorrect");
                 window.location.reload();
             } else {
-                let user = res.data[0];
+                let user = res.data.data[0];
                 console.log(user);
                 localStorage.setItem("user", JSON.stringify(user));
                 window.location.reload();

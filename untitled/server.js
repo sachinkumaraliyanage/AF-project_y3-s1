@@ -2,12 +2,12 @@ const express = require('express');
 const app = express();
 const bodyParser = require('body-parser');
 const cors = require('cors');
-const mongoose = require('mongoose');
-const nodemailer = require("nodemailer");
+
 require('dotenv').config();
-const userRoutes = express.Router();
+
 const port = 5000;
-let User = require('./user.model');
+const Routes        = require("./Routes");
+
 
 //npm install --save express
 //npm install --save body-parser
@@ -19,14 +19,15 @@ let User = require('./user.model');
 
 app.use(cors());
 app.use(bodyParser.json());
-mongoose.connect('mongodb://127.0.0.1:27017/user', {useNewUrlParser: true});
-const connection = mongoose.connection;
+app.use(bodyParser.urlencoded({ extended: false }));
+// mongoose.connect('mongodb://127.0.0.1:27017/user', {useNewUrlParser: true});
+// const connection = mongoose.connection;
 
-connection.once('open', function () {
-    console.log("mongodb connection established");
-})
+// connection.once('open', function () {
+//     console.log("mongodb connection established");
+// })
 
-userRoutes.route('/').get(function (req, res) {
+/*userRoutes.route('/').get(function (req, res) {
 
 
     User.find(function (err, user) {
@@ -43,10 +44,10 @@ userRoutes.route('/').get(function (req, res) {
 
     });
 
-});
+});*/
 
 
-userRoutes.route('/:id').get(function (req, res) {
+/*userRoutes.route('/:id').get(function (req, res) {
 
 
     let id = req.params.id;
@@ -56,9 +57,9 @@ userRoutes.route('/:id').get(function (req, res) {
 
     });
 
-});
+});*/
 
-userRoutes.route('/add').post(function (req, res) {
+/*userRoutes.route('/add').post(function (req, res) {
 
     let user = new User(req.body);
     user.save()
@@ -73,18 +74,18 @@ userRoutes.route('/add').post(function (req, res) {
 
         });
 
-});
-
+});*/
+/*
 userRoutes.route('/:email/:password').get(function (req, res) {
 
     console.log("hdhdhgdhd");
     let mail = req.params.email;
     let pass = req.params.password;
     console.log(mail);
-    console.log(pass);
+    console.log(pass);*/
     // res.send(pass);
 //,status:true
-    User.find({ email : mail, password : pass }, function (err, user) {
+   /* User.find({ email : mail, password : pass }, function (err, user) {
 
         // res.send(user);
         if(user === undefined || user.length == 0){
@@ -97,43 +98,43 @@ userRoutes.route('/:email/:password').get(function (req, res) {
 
     });
 
-});
+});*/
 
-userRoutes.route('/update/:id').post(function (req, res) {
-    User.findById(req.params.id, function (err, user) {
+// /*userRoutes.route('/update/:id').post(function (req, res) {
+//     User.findById(req.params.id, function (err, user) {
+//
+//         if (!user)
+//             res.status(400).send('data is not found');
+//
+//         else
+//             user.firstName = req.body.firstName;
+//             user.lastName = req.body.lastName;
+//             user.email = req.body.email;
+//             user.pno = req.body.pno;
+//             user.password = req.body.password;
+//             user.types = req.body.types;
+//             user.address = req.body.address;
+//             user.editby = req.body.editby;
+//             user.editdate = req.body.editdate;
+//             user.status = req.body.status;
+//
+//
+//         user.save().then(user => {
+//
+//
+//             res.json('user updated');
+//
+//         })
+//             .catch(err => {
+//
+//                 res.status(400).send("update not possible");
+//
+//             });
+//     });
+// })*/
 
-        if (!user)
-            res.status(400).send('data is not found');
 
-        else
-            user.firstName = req.body.firstName;
-            user.lastName = req.body.lastName;
-            user.email = req.body.email;
-            user.pno = req.body.pno;
-            user.password = req.body.password;
-            user.types = req.body.types;
-            user.address = req.body.address; 
-            user.editby = req.body.editby;
-            user.editdate = req.body.editdate;
-            user.status = req.body.status;
-
-
-        user.save().then(user => {
-
-
-            res.json('user updated');
-
-        })
-            .catch(err => {
-
-                res.status(400).send("update not possible");
-
-            });
-    });
-})
-
-
-app.use('/user', userRoutes);
+app.use('/', Routes);
 
 
 app.listen(port, function () {

@@ -1,5 +1,5 @@
-const mongoose=require('mongoose');
-const Schema=mongoose.Schema;
+let mongoose 		= require('mongoose');
+const Schema        = mongoose.Schema;
 
 let User=new Schema({
 
@@ -49,5 +49,14 @@ let User=new Schema({
 
 });
 
+mongoose.model('User', User);
 
-module.exports=mongoose.model('User',User);
+mongoose.connect('mongodb://localhost:27017/user', (err) => {
+    if (err) {
+        console.log(err);
+        process.exit(-1);
+    }
+    console.log('Connected to the DB');
+});
+
+module.exports = mongoose;
