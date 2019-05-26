@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c29d5117-6d45-460a-81e8-a51c97d5b984" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DBSchema/SchemaMapper.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IT17152938/User.Controller.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IT17152938/User.Route.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Routes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../courseweb/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../courseweb/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../courseweb/src/IT17152938/JSX/Register.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../courseweb/src/IT17152938/JSX/Register.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user.model.js" beforeDir="false" />
-    </list>
+    <list default="true" id="c29d5117-6d45-460a-81e8-a51c97d5b984" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -204,16 +194,15 @@
       <workItem from="1558873910798" duration="3768000" />
       <workItem from="1558878002341" duration="672000" />
       <workItem from="1558888564481" duration="86000" />
-      <workItem from="1558888710334" duration="296000" />
+      <workItem from="1558888710334" duration="580000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27541000" />
+    <option name="totallyTimeSpent" value="27825000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13086583" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
