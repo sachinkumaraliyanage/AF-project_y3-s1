@@ -83,7 +83,7 @@ userRoutes.route('/:email/:password').get(function (req, res) {
     console.log(mail);
     console.log(pass);
     // res.send(pass);
-
+//,status:true
     User.find({ email : mail, password : pass }, function (err, user) {
 
         // res.send(user);
@@ -106,9 +106,16 @@ userRoutes.route('/update/:id').post(function (req, res) {
             res.status(400).send('data is not found');
 
         else
-            user.username = req.body.username;
-        user.password = req.body.password;
-        user.email = req.body.email;
+            user.firstName = req.body.firstName;
+            user.lastName = req.body.lastName;
+            user.email = req.body.email;
+            user.pno = req.body.pno;
+            user.password = req.body.password;
+            user.types = req.body.types;
+            user.address = req.body.address; 
+            user.editby = req.body.editby;
+            user.editdate = req.body.editdate;
+            user.status = req.body.status;
 
 
         user.save().then(user => {

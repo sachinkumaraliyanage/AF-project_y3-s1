@@ -11,13 +11,45 @@ import "react-datepicker/dist/react-datepicker.css";
 
 import Select from 'react-select';
 
+let result2 = localStorage.getItem("anyuserid");
+let result = localStorage.getItem("user");
+result = JSON.parse(result);
+
+let k = 1;
+let y = 1;
+
+let fname = "";
+let lname = "";
+let mail = "";
+let add = "";
+let pno2 = "";
+let uid = "";
+
+
+if (result2 == null || result2 == undefined) {
+    if (result == null || result == undefined) {
+        k = 1;
+        y = 1;
+    } else {
+        k = result.types.value;
+        y = result.types.value;
+        fname = result.firstName;
+        lname = result.lastName;
+        mail = result.email;
+        add = result.address;
+        pno2 = result.pno;
+    }
+} else {
+
+
+}
 
 const schema = yup.object().shape({
     firstName: yup.string().required('Required'),
     lastName: yup.string().required('Required'),
     email: yup.string().email().required('Required'),
     address: yup.string().required('Required'),
-    bday: yup.string().required('Required'),
+
     types: yup.array()
         .min(2, 'chooce type')
         .of(
@@ -42,49 +74,16 @@ const chsubmit = function (val) {
     // console.log("sachin");
     // console.log(val);
 
-    let result = localStorage.getItem("user");
-    result = JSON.parse(result);
-
-    if (!(result == null || result == undefined)) {
-        val.addby = result._id;
-        val.editby = result._id;
-    } else {
-        val.addby = "self";
-        val.editby = "self";
-    }
-
-
-    val.adddate = new Date().toLocaleString();
-    val.editdate = val.adddate;
-
+    val.editdate = new Date().toLocaleString();
+    val.editby = result._id;
     val.status = true;
-    // console.log(val);
-    axios.post('http://localhost:5000/user/add', val)
-        .then(res => alert(res.data.user));
-    let a = "<html><body><h1>you are add as a Instructor</h1><p>please visit this site and login in</p><a href='http://localhost:3000'>http://localhost:3000</a></body></html>";
-    let b = "<html><body><h1>you are add as a Administrator</h1><p>please visit this site and login in</p><a href='http://localhost:3000'>http://localhost:3000</a></body></html>";
-    if (val.types.value == '2') {
-        let ma = {
-            to: val.email,
-            sub: 'sliit courseweb',
-            body: a
-        };
-
-        axios.post('http://localhost:8188/email/send', ma)
-            .then(res => console.log(res.data));
-    } else if (val.types.value == '3') {
-        let ma = {
-            to: val.email,
-            sub: 'sliit courseweb',
-            body: b
-        };
-
-        axios.post('http://localhost:8188/email/send', ma)
-            .then(res => console.log(res.data));
-    }
+    console.log(val);
+    //+result._id
+    axios.post('http://localhost:5000/user/update/5cc2afdbec8f2465b0793805', val)
+        .then(res => console.log(res.data));
 };
 
-export default function Register() {
+export default function Edituser() {
 
 
     return (
@@ -104,9 +103,12 @@ export default function Register() {
                     }, 500);
                 }}
                 initialValues={{
-                    firstName: 'Mark',
-                    lastName: 'Otto',
-                    types: {value: '1', label: 'Students'},
+                    firstName: fname,
+                    lastName: lname,
+                    email: mail,
+                    address: add,
+                    pno: pno2,
+
                 }}
             >
                 {({
@@ -207,15 +209,6 @@ export default function Register() {
                                 </Form.Control.Feedback>
                             </Form.Group>
                             <Form.Group as={Col} md="3" controlId="validationFormik05">
-                                <Form.Label>Birthday</Form.Label>
-                                <Form.Control
-                                    type="date"
-
-                                    name="bday"
-                                    value={values.bday}
-                                    onChange={handleChange}
-                                    isInvalid={!!errors.bday}
-                                />
 
 
                                 <Form.Control.Feedback type="invalid">
@@ -282,23 +275,6 @@ export default function Register() {
     );
 }
 
-let result = localStorage.getItem("user");
-result = JSON.parse(result);
-console.log(result);
-let k = 1;
-let y = 1;
-
-console.log(result);
-if (result == null || result == undefined) {
-    k = 1;
-    y = 1;
-} else if (result.types.value == 3) {
-    k = 3;
-    y = 3;
-} else {
-    k = 1;
-    y = 1;
-}
 
 let se = function () {
 

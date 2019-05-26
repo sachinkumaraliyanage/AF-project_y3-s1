@@ -37,7 +37,7 @@ export default class Navbarjsx extends Component {
 
                         </Navbar.Brand>
                         <Nav className="mr-auto">
-                            <Nav.Link href="#home">Home</Nav.Link>
+                            <Nav.Link href="/">Home</Nav.Link>
                             <Nav.Link href="#features">Features</Nav.Link>
                             <Nav.Link href="#pricing">Pricing</Nav.Link>
                             <NavDropdown title="Dropdown" id="basic-nav-dropdown">
@@ -75,9 +75,10 @@ export default class Navbarjsx extends Component {
 
                         </Navbar.Brand>
                         <Nav className="mr-auto">
-                            <Nav.Link href="#home">Home</Nav.Link>
+                            <Nav.Link href="/">Home</Nav.Link>
                             <Nav.Link href="#features">Features</Nav.Link>
                             <Nav.Link href="#pricing">Pricing</Nav.Link>
+                            <Nav.Link href="/register">Add User</Nav.Link>
                             <NavDropdown title="Dropdown" id="basic-nav-dropdown">
                                 <NavDropdown.Item href="#action/3.1">Action</NavDropdown.Item>
                                 <NavDropdown.Item href="#action/3.2">Another action</NavDropdown.Item>
@@ -86,8 +87,10 @@ export default class Navbarjsx extends Component {
                                 <NavDropdown.Item href="#action/3.4">Separated link</NavDropdown.Item>
                             </NavDropdown>
                         </Nav>
-                        <div><h5>{result.firstName + ' ' + result.lastName + ' (' + result.types.label
-                        + ')'}</h5></div>
+                        <Link to="/edituser">
+                            <div><h5><a>{result.firstName + ' ' + result.lastName + ' (' + result.types.label
+                            + ')'}</a></h5></div>
+                        </Link>
                         <Button variant="outline-primary" onClick={this.logoutFuntion}>LOG OUT</Button>
 
                     </Navbar>
@@ -109,7 +112,7 @@ export default class Navbarjsx extends Component {
 
                         </Navbar.Brand>
                         <Nav className="mr-auto">
-                            <Nav.Link href="#home">Home</Nav.Link>
+                            <Nav.Link href="/">Home</Nav.Link>
                             <Nav.Link href="#features">Features</Nav.Link>
                             <Nav.Link href="#pricing">Pricing</Nav.Link>
                             <NavDropdown title="Dropdown" id="basic-nav-dropdown">
@@ -120,8 +123,11 @@ export default class Navbarjsx extends Component {
                                 <NavDropdown.Item href="#action/3.4">Separated link</NavDropdown.Item>
                             </NavDropdown>
                         </Nav>
-                        <Login/>
-                        <Link to="/register"> <Button variant="outline-primary">REGISTER</Button></Link>
+                        <Link to="/edituser">
+                            <div><h5><a>{result.firstName + ' ' + result.lastName + ' (' + result.types.label
+                            + ')'}</a></h5></div>
+                        </Link>
+                        <Button variant="outline-primary" onClick={this.logoutFuntion}>LOG OUT</Button>
 
                     </Navbar>
                 </div>
@@ -142,7 +148,7 @@ export default class Navbarjsx extends Component {
 
                         </Navbar.Brand>
                         <Nav className="mr-auto">
-                            <Nav.Link href="#home">Home</Nav.Link>
+                            <Nav.Link href="/">Home</Nav.Link>
                             <Nav.Link href="#features">Features</Nav.Link>
                             <Nav.Link href="#pricing">Pricing</Nav.Link>
                             <NavDropdown title="Dropdown" id="basic-nav-dropdown">

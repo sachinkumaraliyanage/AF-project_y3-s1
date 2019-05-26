@@ -29,6 +29,22 @@ let User=new Schema({
     address:{
         type:String
     },
+    addby:{
+        type:String
+    },
+    adddate:{
+        type:String
+    },
+    editby:{
+        type:String
+    },
+    editdate:{
+        type:String
+    },
+    status:{
+        type:Boolean
+
+    },
 
 
 });

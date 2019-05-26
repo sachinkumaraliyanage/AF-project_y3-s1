@@ -1,21 +1,18 @@
 import React, {Component} from 'react';
 
 import ImageSlide from "./ImageSlide";
-import Detailsindexjs from "./Detailsindexjs";
 // import Register from "./Register";
 import Navbarjsx from "./Navbarjsx";
 import Footer from "./Footer";
+import Edituser from "./Edituser";
 
-
-// localStorage.setItem("user", null);
-export default class Home extends Component {
-
+export default class EdituserMain extends Component {
     render() {
         return (
             <div>
                 <Navbarjsx/>
                 <ImageSlide/>
-                <Detailsindexjs/>
+                <Edituser/>
                 <Footer/>
             </div>
         );
