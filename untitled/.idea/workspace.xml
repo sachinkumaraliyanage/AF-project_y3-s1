@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c29d5117-6d45-460a-81e8-a51c97d5b984" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../courseweb/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../courseweb/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../courseweb/src/IT17152938/JSX/Navbarjsx.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../courseweb/src/IT17152938/JSX/Navbarjsx.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../courseweb/src/IT17152938/JSX/UserManage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../courseweb/src/IT17152938/JSX/UserManage.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IT17152938/User.Controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/IT17152938/User.Controller.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -204,7 +200,7 @@
       <workItem from="1559285808513" duration="6027000" />
       <workItem from="1559318320774" duration="2228000" />
       <workItem from="1559451221474" duration="39000" />
-      <workItem from="1559471757854" duration="2584000" />
+      <workItem from="1559471757854" duration="2607000" />
     </task>
     <task id="LOCAL-00001" summary="edit delete user">
       <created>1559501106248</created>
@@ -220,11 +216,18 @@
       <option name="project" value="LOCAL" />
       <updated>1559501588411</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="back end user finish">
+      <created>1559502372605</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1559502372605</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39049000" />
+    <option name="totallyTimeSpent" value="39072000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -254,7 +257,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="edit delete user" />
-    <option name="LAST_COMMIT_MESSAGE" value="edit delete user" />
+    <MESSAGE value="back end user finish" />
+    <option name="LAST_COMMIT_MESSAGE" value="back end user finish" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/user.model.js" />
