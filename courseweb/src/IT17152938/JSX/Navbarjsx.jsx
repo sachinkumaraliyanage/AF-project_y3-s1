@@ -78,13 +78,11 @@ export default class Navbarjsx extends Component {
                             <Nav.Link href="/">Home</Nav.Link>
                             <Nav.Link href="#features">Features</Nav.Link>
                             <Nav.Link href="#pricing">Pricing</Nav.Link>
-                            <Nav.Link href="/register">Add User</Nav.Link>
-                            <NavDropdown title="Dropdown" id="basic-nav-dropdown">
-                                <NavDropdown.Item href="#action/3.1">Action</NavDropdown.Item>
-                                <NavDropdown.Item href="#action/3.2">Another action</NavDropdown.Item>
-                                <NavDropdown.Item href="#action/3.3">Something</NavDropdown.Item>
-                                <NavDropdown.Divider/>
-                                <NavDropdown.Item href="#action/3.4">Separated link</NavDropdown.Item>
+                            <Nav.Link href="#">Test 1</Nav.Link>
+                            <NavDropdown title="Users" id="basic-nav-dropdown">
+                                <NavDropdown.Item href="/usermanage">User Manage</NavDropdown.Item>
+                                <NavDropdown.Item href="/register">Add User</NavDropdown.Item>
+
                             </NavDropdown>
                         </Nav>
                         <Link to="/edituser">

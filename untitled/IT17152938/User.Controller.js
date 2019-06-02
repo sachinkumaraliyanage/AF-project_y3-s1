@@ -44,7 +44,7 @@ let UserController = function(){
         return new Promise((resolve, reject) => {
 
 
-            UserSchema.find({ email : mail, password : pass }).exec().then(user => {
+            UserSchema.find({ email : mail, password : pass ,status:true}).exec().then(user => {
                 resolve({status: 200, data: user});
             }).catch(err => {
                 reject({status: 500, message: "Error:- " + err});
@@ -71,7 +71,7 @@ let UserController = function(){
 
     this.searchAll = () => {
         return new Promise((resolve, reject) => {
-            UserSchema.find().exec().then((data) => {
+            UserSchema.find({status:true}).exec().then((data) => {
                 resolve({status: 200, data: data});
             }).catch(err => {
                 reject({status: 500, message: "Error:- " + err});

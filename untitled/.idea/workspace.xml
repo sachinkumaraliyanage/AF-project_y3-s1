@@ -2,26 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c29d5117-6d45-460a-81e8-a51c97d5b984" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../courseweb/public/bootstrap/flUhRq6tzZclQEJ-Vdg-IuiaDsNc.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../courseweb/public/bootstrap/icon.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../courseweb/public/bootstrap/table.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../courseweb/src/IT17152938/JSX/Edituseradmin.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../courseweb/src/IT17152938/JSX/EdituseradminMain.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../courseweb/src/IT17152938/JSX/UserManage.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../courseweb/src/IT17152938/JSX/UsermanageMain.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../courseweb/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../courseweb/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../courseweb/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../courseweb/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../courseweb/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../courseweb/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../courseweb/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../courseweb/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../courseweb/src/IT17152938/JSX/Edituser.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../courseweb/src/IT17152938/JSX/Edituser.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../courseweb/src/IT17152938/JSX/EdituserMain.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../courseweb/src/IT17152938/JSX/EdituserMain.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../courseweb/src/IT17152938/JSX/Login.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../courseweb/src/IT17152938/JSX/Login.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../courseweb/src/IT17152938/JSX/Navbarjsx.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../courseweb/src/IT17152938/JSX/Navbarjsx.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../courseweb/src/RouterRoutes.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../courseweb/src/RouterRoutes.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../courseweb/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../courseweb/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseweb/src/IT17152938/JSX/UserManage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../courseweb/src/IT17152938/JSX/UserManage.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/IT17152938/User.Controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/IT17152938/User.Controller.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IT17152938/User.Route.js" beforeDir="false" afterPath="$PROJECT_DIR$/IT17152938/User.Route.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -64,8 +48,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/IT17152938/User.Controller.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="67" column="10" lean-forward="true" selection-start-line="67" selection-start-column="10" selection-end-line="67" selection-end-column="10" />
+            <state relative-caret-position="772">
+              <caret line="73" column="29" selection-start-line="73" selection-start-column="29" selection-end-line="73" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -82,8 +66,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/IT17152938/User.Route.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="37">
-              <caret line="50" column="45" selection-start-line="50" selection-start-column="38" selection-end-line="50" selection-end-column="45" />
+            <state relative-caret-position="112">
+              <caret line="49" selection-start-line="49" selection-end-line="49" />
             </state>
           </provider>
         </entry>
@@ -219,16 +203,30 @@
       <workItem from="1559285808513" duration="6027000" />
       <workItem from="1559318320774" duration="2228000" />
       <workItem from="1559451221474" duration="39000" />
-      <workItem from="1559471757854" duration="1309000" />
+      <workItem from="1559471757854" duration="2275000" />
     </task>
+    <task id="LOCAL-00001" summary="edit delete user">
+      <created>1559501106248</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1559501106249</updated>
+    </task>
+    <task id="LOCAL-00002" summary="edit delete user">
+      <created>1559501588410</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1559501588411</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37774000" />
+    <option name="totallyTimeSpent" value="38740000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13086583" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -253,6 +251,10 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="edit delete user" />
+    <option name="LAST_COMMIT_MESSAGE" value="edit delete user" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/user.model.js" />
     <entry file="file://$PROJECT_DIR$/server.js">
@@ -266,6 +268,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1080">
           <caret line="54" column="14" selection-start-line="54" selection-start-column="14" selection-end-line="54" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="40" column="25" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -283,24 +292,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package-lock.json">
+    <entry file="file://$PROJECT_DIR$/IT17152938/User.Route.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="800">
-          <caret line="40" column="25" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
+        <state relative-caret-position="112">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/IT17152938/User.Route.js">
+    <entry file="file://$PROJECT_DIR$/node_modules/express/lib/response.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="37">
-          <caret line="50" column="45" selection-start-line="50" selection-start-column="38" selection-end-line="50" selection-end-column="45" />
+        <state relative-caret-position="131">
+          <caret line="266" column="14" selection-start-line="266" selection-start-column="14" selection-end-line="266" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/IT17152938/User.Controller.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="67" column="10" lean-forward="true" selection-start-line="67" selection-start-column="10" selection-end-line="67" selection-end-column="10" />
+        <state relative-caret-position="772">
+          <caret line="73" column="29" selection-start-line="73" selection-start-column="29" selection-end-line="73" selection-end-column="29" />
         </state>
       </provider>
     </entry>

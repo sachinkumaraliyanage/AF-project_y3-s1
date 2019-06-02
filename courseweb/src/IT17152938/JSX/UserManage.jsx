@@ -5,7 +5,7 @@ import IconButton from '@material-ui/core/IconButton';
 import EditIcon from '@material-ui/icons/EditOutlined';
 import DeleteIcon from '@material-ui/icons/DeleteOutlined';
 import axios from "axios";
-import { confirmAlert } from 'react-confirm-alert';
+import {confirmAlert} from 'react-confirm-alert';
 import 'react-confirm-alert/src/react-confirm-alert.css';
 
 
@@ -40,6 +40,7 @@ function DeleteItem(id,name){
 
                         if(res.data.message){
                             alert(res.data.message);
+                            window.location.reload();
                         }
 
 
@@ -94,7 +95,7 @@ export default class UserManage extends Component {
     async componentDidMount(){
 
         let user2;
-        console.log("3")
+        console.log("3");
         let ur = "http://localhost:5000/user/";
         await axios.get(ur).then(res => {
 
@@ -108,7 +109,7 @@ export default class UserManage extends Component {
 
                     userde:user2,
 
-                })
+                });
             //console.log(this.state.userde.us[0].firstName);
 
             console.log("1");
@@ -131,7 +132,7 @@ export default class UserManage extends Component {
 
                 })
                 );
-            }.bind(this))
+            }.bind(this));
             console.log(r);
              this.setState({
                 columns: [
