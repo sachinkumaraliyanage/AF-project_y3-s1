@@ -15,8 +15,14 @@ let UserController = function(){
 
     this.update = (id, data) => {
         return new Promise((resolve, reject) => {
-            UserSchema.update({_id: id}, data).then(() => {
-                resolve({status: 200, message: "update user"});
+            console.log(id);
+            console.log(data);
+            UserSchema.updateMany({_id: id}, data).then(() => {
+                UserSchema.find({_id:id}).exec().then(user => {
+                    resolve({status: 200, data: user});
+                }).catch(err => {
+                    reject({status: 500, message: "Error:- " + err});
+                })
             }).catch(err => {
                 reject({status: 500, message: "Error:- " + err});
             })
@@ -24,6 +30,7 @@ let UserController = function(){
     }
 
     this.search = (id) => {
+        console.log(id);
         return new Promise((resolve, reject) => {
             UserSchema.find({_id:id}).exec().then(user => {
                 resolve({status: 200, data: user});
@@ -47,7 +54,13 @@ let UserController = function(){
 
     this.delete = (id) => {
         return new Promise((resolve, reject) => {
-            UserSchema.remove({_id:id}).then(() => {
+            /*UserSchema.remove({_id:id}).then(() => {
+                resolve({status: 200, message: "remove user"});
+            }).catch(err => {
+                reject({status: 500, message:"Error:- " + err});
+            })*/
+
+            UserSchema.update({_id: id}, { $set: {status:false}}, false, true).then(() => {
                 resolve({status: 200, message: "remove user"});
             }).catch(err => {
                 reject({status: 500, message:"Error:- " + err});

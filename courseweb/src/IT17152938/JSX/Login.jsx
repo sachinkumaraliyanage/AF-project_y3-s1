@@ -25,14 +25,21 @@ const chsubmit = function (val) {
         axios.get(ur).then(res => {
             // console.log("sachin2   "+ur);
 //.data=null || res.data==undefined||res.data.length==0
-            console.log(res);
-            if (res.status == 404) {
+//             console.log(res.data.data[0]);
+            if (res.status != 200) {
                 alert("email and password incorrect");
                 window.location.reload();
             } else {
                 let user = res.data.data[0];
-                console.log(user);
-                localStorage.setItem("user", JSON.stringify(user));
+                if(user!=undefined) {
+                    // console.log(user);
+                    localStorage.setItem("user", JSON.stringify(user));
+
+                }
+                else{
+                    alert("email and password incorrect");
+                    window.location.reload();
+                }
                 window.location.reload();
             }
 

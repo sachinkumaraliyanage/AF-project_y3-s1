@@ -23,5 +23,11 @@ ReactDOM.render(<BrowserRouter><App/></BrowserRouter>, document.getElementById('
 //npm install --save react-select
 //npm install --save react-datepicker
 //npm install --save react-bootstrap-date-picker
+//npm install material-table --save
+//npm i @material-ui/core
+//npm i @date-io/core
+//npm install @material-ui/icons
+//npm install --save bootstrap
+//npm install react-confirm-alert --save
 
 serviceWorker.unregister();

@@ -14,7 +14,7 @@ router.post('/add', (req, res) => {
 
 router.post('/update/:id', (req, res) => {
     Controller.update(req.params.id, req.body).then(data => {
-        res.status(data.status).send({message: data.message});
+        res.status(data.status).send({data: data.data});
     }).catch(err => {
         res.status(err.status).send({message: err.message});
     })
@@ -30,7 +30,7 @@ router.get('/', (req, res) => {
 
 router.get('/:id', (req, res) => {
     Controller.search(req.params.id).then(data => {
-        res.json(data.data);
+        res.status(data.status).send({data: data.data});
         //res.status(data.status).send({data: data.data});
     }).catch(err => {
         res.status(err.status).send({message: err.message});

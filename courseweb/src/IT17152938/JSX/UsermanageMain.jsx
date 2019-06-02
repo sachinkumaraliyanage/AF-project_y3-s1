@@ -4,17 +4,19 @@ import ImageSlide from "./ImageSlide";
 // import Register from "./Register";
 import Navbarjsx from "./Navbarjsx";
 import Footer from "./Footer";
-import Edituser from "./Edituser";
+import UserManage from "./UserManage";
 
-export default class EdituserMain extends Component {
+export default class UsermanageMain extends Component {
+
 
 
     render() {
         return (
             <div>
+
                 <Navbarjsx/>
                 <ImageSlide/>
-                <Edituser/>
+                <UserManage/>
                 <Footer/>
             </div>
         );

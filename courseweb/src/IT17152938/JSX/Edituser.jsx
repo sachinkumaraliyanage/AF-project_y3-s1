@@ -79,8 +79,38 @@ const chsubmit = function (val) {
     val.status = true;
     console.log(val);
     //+result._id
-    axios.post('http://localhost:5000/user/update/5cc2afdbec8f2465b0793805', val)
-        .then(res => console.log(res.data));
+    axios.post('http://localhost:5000/user/update/'+result._id, val)
+        .then(
+
+            res =>
+            {
+                if (res.status != 200) {
+                    alert("cant update try again");
+                    window.location.reload();
+                } else {
+                    let user = res.data.data[0];
+                    if(user!=undefined) {
+                        console.log(user);
+                        localStorage.setItem("user", JSON.stringify(user));
+                        alert("update ok");
+
+                    }
+                    else{
+                        alert("cant update try again");
+                        window.location.reload();
+                    }
+                    window.location.reload();
+                }
+
+
+            }
+
+            ).catch((error) => {
+        // console.log('v');
+        console.log(error.response);
+        alert("cant update try again");
+        window.location.reload();
+    });
 };
 
 export default function Edituser() {
