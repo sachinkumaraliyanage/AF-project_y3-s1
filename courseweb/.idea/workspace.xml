@@ -2,23 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2611549e-2f0b-4049-9037-a8ee8bca26d8" name="Default Changelist" comment="change login">
-      <change afterPath="$PROJECT_DIR$/public/bootstrap/flUhRq6tzZclQEJ-Vdg-IuiaDsNc.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/bootstrap/icon.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/bootstrap/table.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IT17152938/JSX/Edituseradmin.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IT17152938/JSX/EdituseradminMain.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IT17152938/JSX/UserManage.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IT17152938/JSX/UsermanageMain.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IT17152938/JSX/Edituser.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/IT17152938/JSX/Edituser.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IT17152938/JSX/EdituserMain.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/IT17152938/JSX/EdituserMain.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IT17152938/JSX/Login.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/IT17152938/JSX/Login.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IT17152938/JSX/Navbarjsx.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/IT17152938/JSX/Navbarjsx.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RouterRoutes.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/RouterRoutes.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../untitled/IT17152938/User.Controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/IT17152938/User.Controller.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../untitled/IT17152938/User.Route.js" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/IT17152938/User.Route.js" afterDir="false" />
@@ -348,7 +331,7 @@
       <workItem from="1559293528793" duration="6527000" />
       <workItem from="1559318341568" duration="11338000" />
       <workItem from="1559451221726" duration="3000" />
-      <workItem from="1559471624586" duration="19151000" />
+      <workItem from="1559471624586" duration="19469000" />
     </task>
     <task id="LOCAL-00001" summary="project start">
       <created>1555216541142</created>
@@ -396,7 +379,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="126692000" />
+    <option name="totallyTimeSpent" value="127010000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -409,7 +392,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7733333" visible="true" weight="0.09715796" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />

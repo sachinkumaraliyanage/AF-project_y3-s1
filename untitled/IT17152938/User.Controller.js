@@ -53,14 +53,15 @@ let UserController = function(){
     }
 
     this.delete = (id) => {
+
         return new Promise((resolve, reject) => {
             /*UserSchema.remove({_id:id}).then(() => {
                 resolve({status: 200, message: "remove user"});
             }).catch(err => {
                 reject({status: 500, message:"Error:- " + err});
             })*/
-
-            UserSchema.update({_id: id}, { $set: {status:false}}, false, true).then(() => {
+            // UserSchema.updateMany({_id: id}, data).then(() => {
+            UserSchema.updateMany({_id: id}, {status:false}).then(() => {
                 resolve({status: 200, message: "remove user"});
             }).catch(err => {
                 reject({status: 500, message:"Error:- " + err});

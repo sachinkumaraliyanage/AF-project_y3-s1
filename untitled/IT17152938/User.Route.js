@@ -47,6 +47,7 @@ router.get('/:email/:password', (req, res) => {
 });
 
 router.delete('/:id', (req, res) => {
+
     Controller.delete(req.params.id).then(data => {
         res.status(data.status).send({message: data.message});
     }).catch(err => {
