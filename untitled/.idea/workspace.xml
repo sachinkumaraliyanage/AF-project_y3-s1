@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c29d5117-6d45-460a-81e8-a51c97d5b984" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../courseweb/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../courseweb/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseweb/src/IT17152938/JSX/Navbarjsx.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../courseweb/src/IT17152938/JSX/Navbarjsx.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../courseweb/src/IT17152938/JSX/UserManage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../courseweb/src/IT17152938/JSX/UserManage.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/IT17152938/User.Controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/IT17152938/User.Controller.js" afterDir="false" />
@@ -203,7 +204,7 @@
       <workItem from="1559285808513" duration="6027000" />
       <workItem from="1559318320774" duration="2228000" />
       <workItem from="1559451221474" duration="39000" />
-      <workItem from="1559471757854" duration="2275000" />
+      <workItem from="1559471757854" duration="2584000" />
     </task>
     <task id="LOCAL-00001" summary="edit delete user">
       <created>1559501106248</created>
@@ -223,7 +224,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38740000" />
+    <option name="totallyTimeSpent" value="39049000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
