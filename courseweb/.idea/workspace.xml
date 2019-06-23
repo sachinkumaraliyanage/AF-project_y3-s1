@@ -1,0 +1,959 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2611549e-2f0b-4049-9037-a8ee8bca26d8" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/IT17018760/JSX/ViewInstructorMarks.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1376">
+              <caret line="158" column="118" selection-start-line="158" selection-start-column="118" selection-end-line="158" selection-end-column="118" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="jsx" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>type</find>
+      <find>3000</find>
+      <find>consol</find>
+      <find>email</find>
+      <find>iop</find>
+      <find>chuserid</find>
+      <find>cant find user</find>
+      <find>fname</find>
+      <find>console.log</find>
+      <find>se</find>
+      <find>logoutFuntion</find>
+      <find>alert</find>
+      <find>Type</find>
+      <find>localSt</find>
+      <find>local</find>
+      <find>localhost</find>
+      <find>localS</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/public/bootstrap/react-bootstrap.min.js" />
+        <option value="$PROJECT_DIR$/public/bootstrap/bootstrap.min.css" />
+        <option value="$PROJECT_DIR$/src/IT17152938/JSX/Navbar.jsx" />
+        <option value="$PROJECT_DIR$/src/App.css" />
+        <option value="$PROJECT_DIR$/src/index.css" />
+        <option value="$PROJECT_DIR$/src/IT17152938/CSS/Detailsindexjs.css" />
+        <option value="$PROJECT_DIR$/public/it17152938/js/tabmove.js" />
+        <option value="$PROJECT_DIR$/src/IT17152938/JSX/Detailsindexjs.jsx" />
+        <option value="$PROJECT_DIR$/src/IT17152938/JSX/ImageSlide.jsx" />
+        <option value="$PROJECT_DIR$/src/IT17152938/JSX/RegisterMain.jsx" />
+        <option value="$PROJECT_DIR$/src/App.js" />
+        <option value="$PROJECT_DIR$/src/IT17152938/JSX/edituser.jsx" />
+        <option value="$PROJECT_DIR$/src/IT17152938/JSX/EdituserMain.jsx" />
+        <option value="$PROJECT_DIR$/src/IT17152938/JSX/EdituseradminMain.jsx" />
+        <option value="$PROJECT_DIR$/public/bootstrap/table.css" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/public/bootstrap/icon.css" />
+        <option value="$PROJECT_DIR$/src/IT17152938/JSX/UsermanageMain.jsx" />
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/src/IT17056212/JSX/EnrollMain.jsx" />
+        <option value="$PROJECT_DIR$/src/IT17056212/CSS/Enroll.css" />
+        <option value="$PROJECT_DIR$/src/IT17056212/JSX/CourseManageMain.jsx" />
+        <option value="$PROJECT_DIR$/src/IT17152938/JSX/Navbarjsx.jsx" />
+        <option value="$PROJECT_DIR$/src/IT17056212/JSX/NotificationMain.jsx" />
+        <option value="$PROJECT_DIR$/src/IT17152938/JSX/Home.jsx" />
+        <option value="$PROJECT_DIR$/src/IT17152938/JSX/UserManage.jsx" />
+        <option value="$PROJECT_DIR$/src/IT17056212/JSX/MyCourses.jsx" />
+        <option value="$PROJECT_DIR$/src/IT17056212/JSX/Notification.jsx" />
+        <option value="$PROJECT_DIR$/src/IT17056212/JSX/CourseManage.jsx" />
+        <option value="$PROJECT_DIR$/src/IT17056212/JSX/AddCourse.jsx" />
+        <option value="$PROJECT_DIR$/src/RouterRoutes.jsx" />
+        <option value="$PROJECT_DIR$/src/IT16178700/JSX/MyAssignment.jsx" />
+        <option value="$PROJECT_DIR$/src/IT16178700/JSX/ViewAssignment.jsx" />
+        <option value="$PROJECT_DIR$/src/IT17056212/JSX/ViewCourse.jsx" />
+        <option value="$PROJECT_DIR$/src/IT17152938/JSX/Footer.jsx" />
+        <option value="$PROJECT_DIR$/src/IT16178700/JSX/AddAssignment.jsx" />
+        <option value="$PROJECT_DIR$/src/IT17152938/JSX/Register.jsx" />
+        <option value="$PROJECT_DIR$/src/IT16178700/JSX/UploadAssignment.jsx" />
+        <option value="$PROJECT_DIR$/src/IT17152938/JSX/Login.jsx" />
+        <option value="$PROJECT_DIR$/src/IT16178700/JSX/EditAssignment.jsx" />
+        <option value="$PROJECT_DIR$/src/IT17018760/JSX/ViewInstructorMarksMain.jsx" />
+        <option value="$PROJECT_DIR$/src/IT16178700/CSS/Upload.css" />
+        <option value="$PROJECT_DIR$/src/IT16178700/JSX/DownloadAssignment.jsx" />
+        <option value="$PROJECT_DIR$/src/IT17018760/JSX/AddMarks.jsx" />
+        <option value="$PROJECT_DIR$/src/IT17018760/JSX/EditMarks.jsx" />
+        <option value="$PROJECT_DIR$/src/IT17056212/JSX/AssignInstructors.jsx" />
+        <option value="$PROJECT_DIR$/src/IT17056212/JSX/Enroll.jsx" />
+        <option value="$PROJECT_DIR$/src/IT17152938/JSX/Edituser.jsx" />
+        <option value="$PROJECT_DIR$/src/IT17152938/JSX/Edituseradmin.jsx" />
+        <option value="$PROJECT_DIR$/src/IT17018760/JSX/ViewInstructorMarks.jsx" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="575" />
+    <option name="y" value="30" />
+    <option name="width" value="790" />
+    <option name="height" value="725" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="courseweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="courseweb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="courseweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="courseweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="courseweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="courseweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="IT16178700" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="courseweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="courseweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="IT16178700" type="462c0819:PsiDirectoryNode" />
+              <item name="CSS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="courseweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="courseweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="IT16178700" type="462c0819:PsiDirectoryNode" />
+              <item name="JSX" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="courseweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="courseweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="IT17018760" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="courseweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="courseweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="IT17018760" type="462c0819:PsiDirectoryNode" />
+              <item name="CSS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="courseweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="courseweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="IT17018760" type="462c0819:PsiDirectoryNode" />
+              <item name="JSX" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="courseweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="courseweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="IT17056212" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="courseweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="courseweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="IT17056212" type="462c0819:PsiDirectoryNode" />
+              <item name="JSX" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="courseweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="courseweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="IT17152938" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="courseweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="courseweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="IT17152938" type="462c0819:PsiDirectoryNode" />
+              <item name="JSX" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.15.1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/node_modules/eslint" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2018.3.4\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\project\y3s1\af\AF_Project\courseweb\public\bootstrap" />
+      <recent name="D:\project\y3s1\af\AF_Project\courseweb\src\IT17152938\CSS" />
+      <recent name="D:\project\y3s1\af\AF_Project\courseweb\src\IT17152938\JSX" />
+      <recent name="D:\project\y3s1\af\AF_Project\courseweb\src" />
+      <recent name="D:\project\y3s1\af\AF_Project\courseweb\src\IT17152938" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Chamika Prabath\Downloads\AF-project_y3-s1-master (3)\AF-project_y3-s1-master\courseweb\src" />
+      <recent name="D:\project\y3s1\af\AF_Project\courseweb\src\IT17152938\JSX" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2611549e-2f0b-4049-9037-a8ee8bca26d8" name="Default Changelist" comment="" />
+      <created>1555148928066</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555148928066</updated>
+      <workItem from="1555148929829" duration="98000" />
+      <workItem from="1555149029029" duration="4166000" />
+      <workItem from="1555216451309" duration="9937000" />
+      <workItem from="1555835154809" duration="3166000" />
+      <workItem from="1555842566121" duration="3446000" />
+      <workItem from="1555865647949" duration="5116000" />
+      <workItem from="1555896971282" duration="25869000" />
+      <workItem from="1555989848256" duration="3775000" />
+      <workItem from="1556182999660" duration="12903000" />
+      <workItem from="1556220890632" duration="69000" />
+      <workItem from="1556221075686" duration="34000" />
+      <workItem from="1556258542675" duration="9126000" />
+      <workItem from="1557065179240" duration="374000" />
+      <workItem from="1558866258596" duration="8047000" />
+      <workItem from="1558877939893" duration="18000" />
+      <workItem from="1558889172206" duration="461000" />
+      <workItem from="1559285875532" duration="3068000" />
+      <workItem from="1559293528793" duration="6527000" />
+      <workItem from="1559318341568" duration="11338000" />
+      <workItem from="1559451221726" duration="3000" />
+      <workItem from="1559471624586" duration="20121000" />
+      <workItem from="1559534749960" duration="1333000" />
+      <workItem from="1559536316546" duration="312000" />
+      <workItem from="1559537763645" duration="323000" />
+      <workItem from="1559544362248" duration="22000" />
+      <workItem from="1559560923230" duration="1632000" />
+      <workItem from="1559562562789" duration="139000" />
+      <workItem from="1559570318715" duration="5595000" />
+      <workItem from="1559581967824" duration="2291000" />
+      <workItem from="1559584408290" duration="2511000" />
+      <workItem from="1559587040245" duration="255000" />
+      <workItem from="1559633445927" duration="189000" />
+      <workItem from="1559655169937" duration="2000" />
+      <workItem from="1559656135500" duration="623000" />
+      <workItem from="1559662312543" duration="634000" />
+      <workItem from="1559997566023" duration="9000000" />
+      <workItem from="1560008014664" duration="3144000" />
+      <workItem from="1560092973828" duration="4321000" />
+      <workItem from="1560097373207" duration="220000" />
+      <workItem from="1560750667847" duration="1554000" />
+      <workItem from="1560774947057" duration="78000" />
+      <workItem from="1560775481911" duration="993000" />
+      <workItem from="1560784318484" duration="599000" />
+      <workItem from="1560854152309" duration="15000" />
+      <workItem from="1560854228970" duration="26000" />
+      <workItem from="1560854278947" duration="53000" />
+      <workItem from="1560854600720" duration="110000" />
+      <workItem from="1560854740767" duration="9000" />
+      <workItem from="1560854781939" duration="13000" />
+      <workItem from="1560854823351" duration="48000" />
+      <workItem from="1560932516512" duration="218000" />
+      <workItem from="1560938261448" duration="4992000" />
+      <workItem from="1560962741360" duration="1087000" />
+      <workItem from="1561006671310" duration="285000" />
+      <workItem from="1561011896291" duration="389000" />
+      <workItem from="1561017623431" duration="803000" />
+      <workItem from="1561027077820" duration="5887000" />
+      <workItem from="1561090378289" duration="2515000" />
+      <workItem from="1561092962418" duration="76000" />
+      <workItem from="1561096923271" duration="1768000" />
+      <workItem from="1561102898672" duration="1038000" />
+      <workItem from="1561104118590" duration="2627000" />
+      <workItem from="1561106824497" duration="299000" />
+      <workItem from="1561260979568" duration="3505000" />
+      <workItem from="1561264853753" duration="301000" />
+      <workItem from="1561265209117" duration="610000" />
+      <workItem from="1561266911059" duration="1618000" />
+      <workItem from="1561268579226" duration="3855000" />
+      <workItem from="1561273189379" duration="2091000" />
+      <workItem from="1561276149942" duration="3617000" />
+    </task>
+    <task id="LOCAL-00001" summary="project start">
+      <created>1555216541142</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1555216541142</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add new slide show to index">
+      <created>1555219111344</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1555219111344</updated>
+    </task>
+    <task id="LOCAL-00003" summary="finish index">
+      <created>1555230581773</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1555230581773</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Rgistation added">
+      <created>1556259215298</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1556259215298</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Rgistation added">
+      <created>1558870106575</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1558870106575</updated>
+    </task>
+    <task id="LOCAL-00006" summary="change login">
+      <created>1558889279743</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1558889279743</updated>
+    </task>
+    <task id="LOCAL-00007" summary="front end users finish">
+      <created>1559502345270</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1559502345270</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="201287000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7023061" visible="true" weight="0.25710508" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" sideWeight="0.2976939" side_tool="true" visible="true" weight="0.25710508" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32941177" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49966952" visible="true" weight="0.29852942" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32941177" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32941177" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50033045" side_tool="true" weight="0.39093485" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.2266289" />
+      <window_info anchor="bottom" id="TypeScript" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24966443" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+    </ignored-roots>
+    <MESSAGE value="project start" />
+    <MESSAGE value="add new slide show to index" />
+    <MESSAGE value="finish index" />
+    <MESSAGE value="Rgistation added" />
+    <MESSAGE value="change login" />
+    <MESSAGE value="front end users finish" />
+    <option name="LAST_COMMIT_MESSAGE" value="front end users finish" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/App.js</url>
+          <line>3</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/it17152938/js/tabmove.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="33" lean-forward="true" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#74#93#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IT17056212/JSX/NotificationMain.jsx" />
+    <entry file="file://$PROJECT_DIR$/src/serviceWorker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="59" selection-start-column="59" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IT17152938/JSX/Detailsindexjs.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="41" selection-start-column="41" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IT17152938/JSX/UsermanageMain.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+            <element signature="e#118#154#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IT17152938/JSX/UserManage.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="97" column="25" lean-forward="true" selection-start-line="97" selection-start-column="25" selection-end-line="97" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IT17152938/JSX/RegisterMain.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="38" lean-forward="true" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IT17152938/JSX/ImageSlide.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IT17056212/JSX/AddCourseMain.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IT17056212/JSX/EnrollMain.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IT17056212/JSX/ViewCourseMain.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-31">
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IT17056212/JSX/MyCoursesMain.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="21" column="1" selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IT17056212/JSX/Notification.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="488">
+          <caret line="45" column="76" selection-start-line="45" selection-start-column="76" selection-end-line="45" selection-end-column="76" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IT17056212/JSX/AssignInstructorsMain.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IT17056212/JSX/CourseManage.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="33" column="19" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IT17056212/JSX/CourseManageMain.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IT17152938/JSX/Home.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+            <element signature="e#165#201#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IT17018760/JSX/AddMarksMain.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IT17018760/JSX/EditMarksMain.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="11" column="11" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IT16178700/JSX/AddAssignmentMain.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IT16178700/JSX/MyAssignment.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="79" column="51" lean-forward="true" selection-start-line="79" selection-start-column="51" selection-end-line="79" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IT16178700/JSX/ViewAssignment.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="87" column="5" lean-forward="true" selection-start-line="87" selection-start-column="5" selection-end-line="87" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IT16178700/JSX/ViewAssignmentMain.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IT17056212/JSX/ViewCourse.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="214" column="38" lean-forward="true" selection-start-line="214" selection-start-column="38" selection-end-line="214" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RouterRoutes.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IT17152938/JSX/Footer.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="11" column="97" selection-start-line="11" selection-start-column="97" selection-end-line="11" selection-end-column="97" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IT17152938/JSX/EdituserMain.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#118#154#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IT16178700/JSX/AddAssignment.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="81" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IT17152938/JSX/Register.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="81" column="27" lean-forward="true" selection-start-line="81" selection-start-column="27" selection-end-line="81" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IT16178700/JSX/EditAssignment.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="129" lean-forward="true" selection-start-line="129" selection-end-line="129" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IT17152938/JSX/Navbarjsx.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-20">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IT16178700/JSX/UploadAssignment.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-140">
+          <caret line="62" column="36" selection-start-line="62" selection-start-column="30" selection-end-line="62" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IT17018760/JSX/ViewInstructorMarksMain.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="20" column="36" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IT16178700/CSS/Upload.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IT16178700/JSX/DownloadAssignment.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-298">
+          <caret line="112" column="20" selection-start-line="112" selection-start-column="20" selection-end-line="112" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IT17018760/JSX/AddMarks.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-215">
+          <caret line="100" column="29" selection-start-line="100" selection-start-column="29" selection-end-line="100" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IT17152938/JSX/Edituseradmin.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IT17152938/JSX/Login.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="67" column="8" lean-forward="true" selection-start-line="67" selection-start-column="8" selection-end-line="70" selection-end-column="62" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IT17018760/JSX/EditMarks.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="81" column="53" selection-start-line="81" selection-start-column="53" selection-end-line="81" selection-end-column="53" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IT17152938/JSX/Edituser.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IT17152938/JSX/EdituseradminMain.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+            <element signature="e#118#154#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IT17056212/JSX/AddCourse.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="55" column="69" selection-start-line="55" selection-start-column="69" selection-end-line="55" selection-end-column="69" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IT17056212/JSX/AssignInstructors.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="64" column="56" selection-start-line="64" selection-start-column="56" selection-end-line="64" selection-end-column="56" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IT17056212/JSX/Enroll.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="67" column="56" selection-start-line="67" selection-start-column="56" selection-end-line="67" selection-end-column="56" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IT17056212/JSX/MyCourses.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-861">
+          <caret line="188" selection-start-line="188" selection-end-line="188" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IT17018760/JSX/ViewInstructorMarks.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1376">
+          <caret line="158" column="118" selection-start-line="158" selection-start-column="118" selection-end-line="158" selection-end-column="118" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
